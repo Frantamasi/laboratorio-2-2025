@@ -8,8 +8,8 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- Eliseo Sanchez (164514) - eliseosanchez99@yahoo.com
+- Francisco Tamasi (195194) - frantamasi1@gmail.com
 
 # Contexto / Escenario
 
